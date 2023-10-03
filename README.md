@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-[![todo-list](https://img.shields.io/badge/Click_Here-Welcome_to_Todo-list-orange)](https://todo-list-next-js-eight.vercel.app/)
+
+[![BlogWebsite](https://img.shields.io/badge/Click_Here-Welcome_to_Todo_List-orange)](https://todo-list-next-js-eight.vercel.app)
 
 ## Getting Started
 
